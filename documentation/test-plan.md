@@ -27,4 +27,19 @@ The following areas are considered out of scope for this test plan:
 
 ## 4. Test Environment
 
+The test environment for the SauceDemo QA Project will consist of the following components:
+
+- **Application**: SauceDemo (https://www.saucedemo.com/)
+- **Operating System**: Windows 11
+- **Browser**: Google Chrome
+- **Test Automation Framework**: Cypress
+- **Testing Types**: Manual exploratory testing and automated functional testing
+- **Version Control**: Git and GitHub
+
 ## 5. Testing Types
+
+The following testing types will be employed in the SauceDemo QA Project:
+
+- **Exploratory Testing**: Manually exploring the application's login, product browsing, shopping cart management, and checkout functionalities to identify potential defects.
+- **Functional Testing**: Verifying that the application's features behave as expected, including login, product sorting, shopping cart operations, and checkout validation.
+- **Automated Testing**: Developing Cypress automated tests to cover critical functionalities, such as login, product browsing, shopping cart management, and checkout. These tests will support regression testing as the project evolves.
