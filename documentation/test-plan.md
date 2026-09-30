@@ -8,6 +8,14 @@ Testing will focus on the core functionalities of the SauceDemo application, inc
 
 ## 2. Scope
 
+The scope of this test plan includes the following areas:
+
+- User Authentication: Testing login functionality with valid and invalid credentials, as well as logout behavior.
+- Product Browsing: Verifying product listings and sorting functionality.
+- Shopping Cart Management: Testing the addition and removal of products from the shopping cart.
+- Checkout Process: Validating the checkout flow, including customer information fields, input validation, and order completion.
+- Test Automation: Developing Cypress automated tests for critical functionalities and regression testing.
+
 ## 3. Out of Scope
 
 ## 4. Test Environment
